@@ -14,25 +14,21 @@
 ## Community organizations, projects & movements 
 <table>
   <tr>
-    <th>Name</th> 
-    <th>Links</th>
-    <th>Hashtags</th>
+    <th>Name / Links / Hashtags</th>
     <th>Description</th>
   </tr>
   <tr>
     <td>
       <h4><a href='https://www.bezopasnyirepost.com/'>Bezopasnyi Repost (Safe Repost)</a></h4>
       <p>(mostly in Russian)</p>
-    </td>
-    <td>
+      <hr>
       <ul>
         <li><a href='https://t.me/bezopasnyirepost'>Telegram</a></li>
         <li><a href='https://www.instagram.com/bezopasnyirepost/'>Instagram</a></li>
         <li><a href='https://twitter.com/bezopasnyi'>Twitter</a></li>
         <li><a href='https://www.bezopasnyirepost.com/'>website</a></li>
       </ul>
-    </td>
-    <td>
+      <hr>
       <ul>
         <li>#нетвойне (#nowar)</li> 
         <li>#безопасныйрепост (#bezopasnyirepost)</li> 
@@ -53,8 +49,7 @@
     <td>
       <h4><a href='https://taplink.cc/fem_antiwar_resistance'>Feminist Anti-war Resistance</a></h4>
       <p>(in multiple languages)</p>
-    </td>
-    <td>
+      <hr>
       <ul>
         <li><a href='https://t.me/femagainstwar'>Telegram</a></li>
         <li><a href='https://www.instagram.com/fem_antiwar_resistance/'>Instagram</a></li>
@@ -62,8 +57,7 @@
         <li><a href='https://www.facebook.com/feministantiwarmovement'>Facebook</a></li>
         <li><a href='https://taplink.cc/fem_antiwar_resistance'>website</a></li>
       </ul>
-    </td>
-    <td>
+      <hr>
       <ul>
         <li>#Феминистское
           <br>Антивоенное
